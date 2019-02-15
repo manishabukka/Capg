@@ -1,7 +1,10 @@
 package packagesConcept;
 
 public class Demo1 {
-	int d=98;
+	public int c=98;
 	
+	
+	packagesConcept.Demo d = new Demo();
+
 
 }
